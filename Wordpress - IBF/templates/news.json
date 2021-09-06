@@ -1,0 +1,504 @@
+{
+    "version": "0.4",
+    "title": "News",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_header_footer"
+    },
+    "content": [
+        {
+            "id": "2a118128",
+            "settings": {
+                "height": "min-height",
+                "background_overlay_background": "classic",
+                "background_overlay_image": {
+                    "url": "http:\/\/tykit.rometheme.pro\/criptix\/wp-content\/uploads\/sites\/3\/2021\/06\/bg.png",
+                    "id": 10
+                },
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.4,
+                    "sizes": []
+                },
+                "custom_height": {
+                    "unit": "px",
+                    "size": 300,
+                    "sizes": []
+                },
+                "box_shadow_box_shadow": {
+                    "horizontal": 0,
+                    "vertical": 10,
+                    "blur": 10,
+                    "spread": 0,
+                    "color": "rgba(0, 0, 0, 0.36)"
+                }
+            },
+            "elements": [
+                {
+                    "id": "667455fd",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "416c2648",
+                            "settings": {
+                                "title": "News",
+                                "header_size": "h1",
+                                "align": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6daa8b56",
+                            "settings": {
+                                "editor": "<p><a href=\"#\">Home<\/a> \/ News<\/p>",
+                                "align": "center",
+                                "__globals__": {
+                                    "typography_typography": "globals\/typography?id=2a4876e"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "3f14ca8d",
+            "settings": {
+                "structure": "20",
+                "background_background": "classic",
+                "padding": {
+                    "unit": "em",
+                    "top": "6",
+                    "right": "1",
+                    "bottom": "4",
+                    "left": "1",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "globals\/colors?id=4e7bf22"
+                }
+            },
+            "elements": [
+                {
+                    "id": "4332ee99",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 70,
+                        "_inline_size_tablet": 100,
+                        "_inline_size_mobile": 100,
+                        "margin_mobile": {
+                            "unit": "em",
+                            "top": "",
+                            "right": "",
+                            "bottom": "",
+                            "left": "",
+                            "isLinked": true
+                        },
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "padding_mobile": {
+                            "unit": "em",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": true
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "74acc4c0",
+                            "settings": {
+                                "ekit_blog_posts_feature_img_size_size": "full",
+                                "ekit_blog_posts_content_trim": 15,
+                                "ekit_blog_posts_cats": [
+                                    "1"
+                                ],
+                                "ekit_blog_posts_btn_text": "Learn more ",
+                                "ekit_blog_posts_background_background": "classic",
+                                "ekit_blog_posts_padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": true
+                                },
+                                "ekit_blog_posts_margin": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "2",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_feature_img_radius": {
+                                    "unit": "px",
+                                    "top": "10",
+                                    "right": "10",
+                                    "bottom": "10",
+                                    "left": "10",
+                                    "isLinked": true
+                                },
+                                "ekit_blog_posts_feature_img_margin": {
+                                    "unit": "px",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_feature_img_padding": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_title_margin": {
+                                    "unit": "px",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "-15",
+                                    "left": "0",
+                                    "isLinked": false
+                                },
+                                "ekit_blog_posts_content_margin": {
+                                    "unit": "em",
+                                    "top": "",
+                                    "right": "",
+                                    "bottom": "",
+                                    "left": "",
+                                    "isLinked": false
+                                },
+                                "__globals__": {
+                                    "ekit_blog_posts_title_typography_typography": "globals\/typography?id=645c614",
+                                    "ekit_blog_posts_title_color": "globals\/colors?id=49b6861",
+                                    "ekit_blog_posts_title_hover_color": "globals\/colors?id=primary",
+                                    "ekit_blog_posts_background_color": "globals\/colors?id=4e7bf22",
+                                    "ekit_blog_posts_content_color": "globals\/colors?id=text",
+                                    "ekit_blog_posts_content_typography_typography": "globals\/typography?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "elementskit-blog-posts",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "2fb49ac3",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 30,
+                        "padding": {
+                            "unit": "em",
+                            "top": "1",
+                            "right": "1",
+                            "bottom": "1",
+                            "left": "1",
+                            "isLinked": true
+                        },
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "5e61dff0",
+                            "settings": {
+                                "padding": {
+                                    "unit": "em",
+                                    "top": "0",
+                                    "right": "0",
+                                    "bottom": "2",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [
+                                {
+                                    "id": "53dc51ce",
+                                    "settings": {
+                                        "_column_size": 100,
+                                        "_inline_size": null,
+                                        "space_between_widgets": 5,
+                                        "background_background": "classic",
+                                        "background_gradient_angle": {
+                                            "unit": "deg",
+                                            "size": 80,
+                                            "sizes": []
+                                        },
+                                        "border_radius": {
+                                            "unit": "px",
+                                            "top": "20",
+                                            "right": "20",
+                                            "bottom": "20",
+                                            "left": "20",
+                                            "isLinked": true
+                                        },
+                                        "box_shadow_box_shadow_type": "yes",
+                                        "box_shadow_box_shadow": {
+                                            "horizontal": 0,
+                                            "vertical": 10,
+                                            "blur": 10,
+                                            "spread": 0,
+                                            "color": "rgba(0, 0, 0, 0.15)"
+                                        },
+                                        "padding": {
+                                            "unit": "em",
+                                            "top": "1",
+                                            "right": "1",
+                                            "bottom": "1",
+                                            "left": "1",
+                                            "isLinked": true
+                                        },
+                                        "__globals__": {
+                                            "background_color": "globals\/colors?id=0a15f6a",
+                                            "background_color_b": "globals\/colors?id=3fe9790"
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "29f2035",
+                                            "settings": {
+                                                "title": "Get 30% Off <br>\nFor First Purchesed Token",
+                                                "header_size": "h4",
+                                                "align": "center",
+                                                "_padding": {
+                                                    "unit": "em",
+                                                    "top": "0",
+                                                    "right": "0",
+                                                    "bottom": "1",
+                                                    "left": "0",
+                                                    "isLinked": false
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "heading",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        },
+                        {
+                            "id": "7fa303aa",
+                            "settings": {
+                                "editor": "<p>Sed et viverra arcu. Quisque elementum, nisi quis hendrerit faucibus.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "3657f989",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "far fa-dot-circle",
+                                    "library": "fa-regular"
+                                },
+                                "title_text": "Start",
+                                "description_text": "June 06, 2021 (09:00 GMT)",
+                                "position": "left",
+                                "title_size": "h5",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "text_align": "left",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=49b6861",
+                                    "title_color": "globals\/colors?id=primary",
+                                    "description_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6caf03b1",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "far fa-dot-circle",
+                                    "library": "fa-regular"
+                                },
+                                "title_text": "End",
+                                "description_text": "June 06, 2021 (20:00 GMT)",
+                                "position": "left",
+                                "title_size": "h5",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "text_align": "left",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=49b6861",
+                                    "title_color": "globals\/colors?id=primary",
+                                    "description_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "50af4e80",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "far fa-dot-circle",
+                                    "library": "fa-regular"
+                                },
+                                "title_text": " Tokens for sale",
+                                "description_text": "700,000 ICC (7%)",
+                                "position": "left",
+                                "title_size": "h5",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "text_align": "left",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=49b6861",
+                                    "title_color": "globals\/colors?id=primary",
+                                    "description_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "29914293",
+                            "settings": {
+                                "selected_icon": {
+                                    "value": "far fa-dot-circle",
+                                    "library": "fa-regular"
+                                },
+                                "title_text": "Tokens exchange rate",
+                                "description_text": "1 ETH = 650 ICC 1 BTC = 1940 ICC",
+                                "position": "left",
+                                "title_size": "h5",
+                                "icon_size": {
+                                    "unit": "px",
+                                    "size": 25,
+                                    "sizes": []
+                                },
+                                "text_align": "left",
+                                "content_vertical_alignment": "middle",
+                                "title_bottom_space": {
+                                    "unit": "px",
+                                    "size": 7,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "primary_color": "globals\/colors?id=49b6861",
+                                    "title_color": "globals\/colors?id=primary",
+                                    "description_color": "globals\/colors?id=text"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "icon-box",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6fe186a8",
+                            "settings": {
+                                "space": {
+                                    "unit": "px",
+                                    "size": 10,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "spacer",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "4a1ac5b5",
+                            "settings": {
+                                "text": "Buy Token Now",
+                                "hover_animation": "float",
+                                "align_mobile": "center"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "button",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
